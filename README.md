@@ -1,4 +1,4 @@
-# Breast_Cancer_CADx
+# Breast Cancer CADx
 Supervised Machine Learning Algorithms To Predict Breast Cancer Diagnoses
 
 Breast cancer is the second leading cause of death from cancer in women in the United States. Early detection is strongly correlated with better prognosis. Mammography is the first line of detection, but it is not perfect. Mammography has a false negative rate of 8-10% and it is difficult to determine the severity or type of cancer, as some abnormalities do not affect the woman’s health. Therefore a biopsy is performed to confirm diagnosis. Fine-needle aspiration is the simplest and most common type of biopsy.
